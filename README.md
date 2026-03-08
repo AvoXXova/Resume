@@ -29,6 +29,8 @@ I am a dual-degree student pursuing Artificial Intelligence and Data Science fro
 
 🔗 Project Link: https://sites.google.com/view/pratyush-statistics1/home
 
+---
+
 ### 🔹 Monte Carlo Simulation Experiment (IIT Madras – Statistics)
 
 - Designed a probability experiment using Monte Carlo simulation techniques.
@@ -38,6 +40,8 @@ I am a dual-degree student pursuing Artificial Intelligence and Data Science fro
 - Implemented the experiment using Google Colab.
 
 🔗 Project Link: https://colab.research.google.com/drive/1uq2C0OkBYmAobM9DtbEVT2E1DKPrUulK?usp=sharing
+
+---
 
 ### 🔹 Statistical Data Analysis Project (IIT Madras – Statistics)
 - Performed exploratory data analysis on real-world datasets.
