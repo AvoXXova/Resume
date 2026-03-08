@@ -29,6 +29,24 @@ I am a dual-degree student pursuing Artificial Intelligence and Data Science fro
 
 🔗 Project Link: https://sites.google.com/view/pratyush-statistics1/home
 
+### 🔹 Monte Carlo Simulation Experiment (IIT Madras – Statistics)
+
+- Designed a probability experiment using Monte Carlo simulation techniques.
+- Implemented repeated random sampling to estimate probabilities of events.
+- Performed statistical analysis on simulation outcomes.
+- Visualized results using plots and summary statistics in Python.
+- Implemented the experiment using Google Colab.
+
+🔗 Project Link: https://colab.research.google.com/drive/1uq2C0OkBYmAobM9DtbEVT2E1DKPrUulK?usp=sharing
+
+### 🔹 Statistical Data Analysis Project (IIT Madras – Statistics)
+- Performed exploratory data analysis on real-world datasets.
+- Applied descriptive statistics including mean, median, variance, and standard deviation.
+- Created visualizations to interpret statistical patterns and relationships.
+- Documented analysis and results using a structured project webpage.
+  
+🔗 Project Link: https://sites.google.com/view/pratyush-statistics1/statistics-2/activity-3
+
 ---
 
 ### 🔹 Jewellery E-Commerce Application (Client Project)
